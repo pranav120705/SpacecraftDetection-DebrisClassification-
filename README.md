@@ -1,6 +1,5 @@
 # 🚀 Spacecraft Detection and Debris Classification using YOLOv8
 
-![Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Space_debris_density.jpg/640px-Space_debris_density.jpg)
 
 ## 1. 🛰️ Introduction
 
